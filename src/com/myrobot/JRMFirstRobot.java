@@ -1,4 +1,4 @@
-package myrobot;
+package com.myrobot;
 
 import robocode.Robot;
 import robocode.ScannedRobotEvent;
